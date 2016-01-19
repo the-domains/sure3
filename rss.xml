@@ -4,8 +4,15 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:51:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Try now!]]></title>
+            <description><![CDATA[<h1>Try now!</h1>]]></description>
+            <link>https://thegrid.ai/sure3/try-now/index.html</link>
+            <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
+            <pubDate>Tue, 19 Jan 2016 23:51:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>Now you can order food online for takeout or delivery from sure3 Diner in City of Industry, CA. View menu, photos, coupons, and more. It is fast, easy and FREE to use.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sure3/712e600b-73fc-4bff-bccb-f76fbcf9dbda/index.html</link>
             <guid isPermaLink="false">712e600b-73fc-4bff-bccb-f76fbcf9dbda</guid>
             <pubDate>Tue, 19 Jan 2016 23:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58052716-478c-4ae5-9a84-ac4177ad6177.jpg">]]></description>
-            <link>https://thegrid.ai/sure3/e70910af-b850-4c50-b15e-be34ccff986f/index.html</link>
-            <guid isPermaLink="false">e70910af-b850-4c50-b15e-be34ccff986f</guid>
-            <pubDate>Tue, 19 Jan 2016 23:29:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
