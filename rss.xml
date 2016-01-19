@@ -4,7 +4,7 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:57:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Try now!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sure3/try-now/index.html</link>
             <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
             <pubDate>Tue, 19 Jan 2016 23:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refunds & Delivery]]></title>
+            <description><![CDATA[<article><h1>Refunds & Delivery</h1><p>Order Minimum:$30.00 Delivery Area: Between 123 Happy Street and Sesame Street Delivery Charge: 2 For questions or suggestions please contact us Thank you!</p></article>]]></description>
+            <link>https://thegrid.ai/sure3/refunds-and-delivery/index.html</link>
+            <guid isPermaLink="false">50aca7f5-f3e1-40fb-a713-dddb4a5892d0</guid>
+            <pubDate>Tue, 19 Jan 2016 23:57:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sure3/burger-now/index.html</link>
             <guid isPermaLink="false">0baa775e-53cf-45c3-828b-06e0791150aa</guid>
             <pubDate>Tue, 19 Jan 2016 23:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How come videos don't work?]]></title>
-            <description><![CDATA[<article><h1>How come videos don't work?</h1><p>I still dont get how this "artificial intelligence" thing works on thegrid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f37db9a1b9b4dfafcef375de2e96ae05c614ac.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sure3/how-come-videos-dont-work/index.html</link>
-            <guid isPermaLink="false">f18136ea-cf2c-45f4-8b44-b2e69e13f27b</guid>
-            <pubDate>Tue, 19 Jan 2016 23:24:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
