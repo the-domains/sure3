@@ -4,8 +4,15 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:55:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Try now!]]></title>
+            <description><![CDATA[<article><h1>Try now!</h1><p>This is a test to Make this go on the Landing Page</p></article>]]></description>
+            <link>https://thegrid.ai/sure3/try-now/index.html</link>
+            <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
+            <pubDate>Tue, 19 Jan 2016 23:55:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d86593-4385-4b53-b8e6-b3e9a371c0fe.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/sure3/privacy-policy/index.html</link>
             <guid isPermaLink="false">7fe925f0-c5ff-4af0-a1da-04791bd2b69a</guid>
             <pubDate>Tue, 19 Jan 2016 23:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Try now!]]></title>
-            <description><![CDATA[<article><h1>Try now!</h1><p>This is a test to Make this go on the Landing Page</p></article>]]></description>
-            <link>https://thegrid.ai/sure3/try-now/index.html</link>
-            <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
-            <pubDate>Tue, 19 Jan 2016 23:51:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Us]]></title>
