@@ -4,8 +4,15 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:54:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d86593-4385-4b53-b8e6-b3e9a371c0fe.jpg">]]></description>
+            <link>https://thegrid.ai/sure3/7b13bdad-54ce-4329-ba09-f7d7d1d79675/index.html</link>
+            <guid isPermaLink="false">7b13bdad-54ce-4329-ba09-f7d7d1d79675</guid>
+            <pubDate>Tue, 19 Jan 2016 23:54:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Privacy Policy]]></title>
             <description><![CDATA[<article><h1>Privacy Policy</h1><p>Last Updated: February 12, 2014</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sure3/how-come-videos-dont-work/index.html</link>
             <guid isPermaLink="false">f18136ea-cf2c-45f4-8b44-b2e69e13f27b</guid>
             <pubDate>Tue, 19 Jan 2016 23:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92b8fc60-ca3f-4f47-a364-77108a43255a.jpg">]]></description>
-            <link>https://thegrid.ai/sure3/d0834fe4-6ec2-4b24-97bf-acbcdde78fe9/index.html</link>
-            <guid isPermaLink="false">d0834fe4-6ec2-4b24-97bf-acbcdde78fe9</guid>
-            <pubDate>Tue, 19 Jan 2016 23:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
