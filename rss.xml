@@ -4,8 +4,15 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:34:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weird website.]]></title>
+            <description><![CDATA[<article><h1>Weird website.</h1><p>Everything keeps changing after I refresh...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c7105e7-d48a-4fb0-bcba-1c22c98b0e2c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sure3/weird-website/index.html</link>
+            <guid isPermaLink="false">5a5158ed-ab17-4cb3-96f6-501e6534369d</guid>
+            <pubDate>Tue, 19 Jan 2016 23:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Confused.]]></title>
             <description><![CDATA[<article><h1>Confused.</h1><p>So confused on how to get the website to work properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/580d02c5a113a29799d9eb7b08ef7dd86e18ddf0.jpg"></article>]]></description>
