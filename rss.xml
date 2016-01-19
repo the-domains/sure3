@@ -4,11 +4,18 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:53:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Privacy Policy]]></title>
+            <description><![CDATA[<article><h1>Privacy Policy</h1><p>Last Updated: February 12, 2014</p></article>]]></description>
+            <link>https://thegrid.ai/sure3/privacy-policy/index.html</link>
+            <guid isPermaLink="false">7fe925f0-c5ff-4af0-a1da-04791bd2b69a</guid>
+            <pubDate>Tue, 19 Jan 2016 23:53:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Try now!]]></title>
-            <description><![CDATA[<h1>Try now!</h1>]]></description>
+            <description><![CDATA[<article><h1>Try now!</h1><p>This is a test to Make this go on the Landing Page</p></article>]]></description>
             <link>https://thegrid.ai/sure3/try-now/index.html</link>
             <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
             <pubDate>Tue, 19 Jan 2016 23:51:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sure3/d0834fe4-6ec2-4b24-97bf-acbcdde78fe9/index.html</link>
             <guid isPermaLink="false">d0834fe4-6ec2-4b24-97bf-acbcdde78fe9</guid>
             <pubDate>Tue, 19 Jan 2016 23:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6486ac17-98eb-4829-8b77-b7ddfaa885b6.jpg">]]></description>
-            <link>https://thegrid.ai/sure3/712e600b-73fc-4bff-bccb-f76fbcf9dbda/index.html</link>
-            <guid isPermaLink="false">712e600b-73fc-4bff-bccb-f76fbcf9dbda</guid>
-            <pubDate>Tue, 19 Jan 2016 23:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
