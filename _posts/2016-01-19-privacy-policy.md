@@ -1,30 +1,30 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Our Privacy Policy
-datePublished: '2016-01-19T23:53:00.888Z'
-dateModified: '2016-01-19T23:52:51.765Z'
+datePublished: '2016-01-20T00:05:15.818Z'
+dateModified: '2016-01-20T00:05:12.910Z'
 title: Privacy Policy
 author: []
+sourcePath: _posts/2016-01-19-privacy-policy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-privacy-policy.md
-published: true
 url: privacy-policy/index.html
-_type: Article
+_type: WebPage
 
 ---
 **Last Updated: February 12, 2014**
 
-At Https:www.takeorderonline.com and sure3 tek, Inc. (sure3) ("We", "Our", or "Sites"), protecting the privacy of customers and clients is of great importance. This Privacy Policy explains the type of personal information We collect, how We use and disclose that information, and how We protect that personal information. By using Sites, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Sites. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to Our Privacy Policy will become effective upon Our posting of the revised Privacy Policy on the Sites. Use of the Sites following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
+At Https://www.takeorderonline.com and sure3 tek, Inc. (sure3) ("We", "Our", or "Sites"), protecting the privacy of customers and clients is of great importance. This Privacy Policy explains the type of personal information We collect, how We use and disclose that information, and how We protect that personal information. By using Sites, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Sites. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to Our Privacy Policy will become effective upon Our posting of the revised Privacy Policy on the Sites. Use of the Sites following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
 
 **1\. Customers and Clients**
 
