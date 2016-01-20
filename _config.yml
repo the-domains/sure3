@@ -1,7 +1,7 @@
 name: sure3
 favicon: null
 layout_spectrum: 0.34958
-typography_spectrum: 0.31107
+typography_spectrum: 0.5
 title: Online Restaurant Solutions
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#dfe3e3'
     - '#8dcf80'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
