@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our Privacy Policy
-datePublished: '2016-01-20T00:05:15.988Z'
+datePublished: '2016-01-20T00:05:16.023Z'
 dateModified: '2016-01-20T00:05:12.910Z'
 title: Privacy Policy
 author: []
