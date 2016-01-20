@@ -4,7 +4,7 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 00:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 00:32:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Try now!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sure3/try-now/index.html</link>
             <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
             <pubDate>Tue, 19 Jan 2016 23:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p>All trademarks appearing on this site are the property of their respective owners&period; Use of those trademarks does not imply any affiliation with or endorsement by the owners of those marks of sure3 tek Inc or its products or services&period;</p><img src="http://demo.sure3.com/resources/img/sure3.png"></article>]]></description>
+            <link>http://demo.sure3.com/</link>
+            <guid isPermaLink="false">22cd95f2-d852-4958-990a-67f3ed8adfce</guid>
+            <pubDate>Wed, 20 Jan 2016 00:32:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
