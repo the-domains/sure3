@@ -4,7 +4,7 @@
         <description><![CDATA[Online Restaurant Solutions]]></description>
         <link>https://thegrid.ai/sure3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:59:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sure3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Try now!]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/sure3/try-now/index.html</link>
             <guid isPermaLink="false">ff0328a1-eafc-4ae6-a200-cfdee708fc30</guid>
             <pubDate>Tue, 19 Jan 2016 23:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/sure3/2f30fffc-68d0-4844-a61b-5f40e8a9fed0/index.html</link>
+            <guid isPermaLink="false">2f30fffc-68d0-4844-a61b-5f40e8a9fed0</guid>
+            <pubDate>Tue, 19 Jan 2016 23:59:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Refunds & Delivery]]></title>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/sure3/confused/index.html</link>
             <guid isPermaLink="false">2b94b9e7-8e33-4a11-8a8b-9d55a978af93</guid>
             <pubDate>Tue, 19 Jan 2016 23:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burger now!]]></title>
-            <description><![CDATA[<article><h1>Burger now!</h1><p>Do I really need to add more content to get this thing to work? I'm hungry and want a burger.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bcaf493585993adf5c9d73eedce91ad1d1068.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sure3/burger-now/index.html</link>
-            <guid isPermaLink="false">0baa775e-53cf-45c3-828b-06e0791150aa</guid>
-            <pubDate>Tue, 19 Jan 2016 23:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
